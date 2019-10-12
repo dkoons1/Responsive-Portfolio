@@ -175,9 +175,9 @@ a{
 }
 
 @media screen and (max-width: 980px) {
-    .container{
+    /* .container{
         width: auto;
-    }
+    } */
 
     .content{
         margin-left: 50px;
@@ -218,6 +218,10 @@ a{
   }
 
 @media screen and (max-width: 768px) {
+
+    .container{
+        width: auto;
+    }
 
     .content{
         margin-left: 50px;
